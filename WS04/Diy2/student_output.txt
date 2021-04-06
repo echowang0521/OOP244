@@ -1,0 +1,80 @@
+Script started on Mon 15 Feb 2021 03:34:45 PM EST
+==106987== Memcheck, a memory error detector
+==106987== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==106987== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==106987== Command: ws
+==106987== 
+EmptyOne1
+
+EmptyOne2
+
+/----------------------------------------\
+|                                        |
+| Professor's Label Maker Program Tester |
+|                                        |
+\----------------------------------------/
+
+Enter the follwing information:
+# of Labels > 6
+1> Applied Problem Solving
+2> Computer Principles for Programmers
+3> Communicating Across Contexts (Enriched)
+4> Introduction to Programming Using C
+5> Introduction to UNIX/Linux and the Internet
+6> Computer Programming and Analysis, Co-op (Work-Integrated Learning option only)
+
+Number of labels to create: 6
+Enter 6 labels: 
+Enter label number 1
+> Applied Problem Solving
+Enter label number 2
+> Computer Principles for Programmers
+Enter label number 3
+> Communicating Across Contexts (Enriched)
+Enter label number 4
+> Introduction to Programming Using C
+Enter label number 5
+> Introduction to UNIX/Linux and the Internet
+Enter label number 6
+> Computer Programming and Analysis, Co-op (Work-Integrated Learning option only)
++-------------------------+
+|                         |
+| Applied Problem Solving |
+|                         |
++-------------------------+
++-------------------------------------+
+|                                     |
+| Computer Principles for Programmers |
+|                                     |
++-------------------------------------+
++------------------------------------------+
+|                                          |
+| Communicating Across Contexts (Enriched) |
+|                                          |
++------------------------------------------+
++-------------------------------------+
+|                                     |
+| Introduction to Programming Using C |
+|                                     |
++-------------------------------------+
++---------------------------------------------+
+|                                             |
+| Introduction to UNIX/Linux and the Internet |
+|                                             |
++---------------------------------------------+
++------------------------------------------------------------------------+
+|                                                                        |
+| Computer Programming and Analysis, Co-op (Work-Integrated Learning opt |
+|                                                                        |
++------------------------------------------------------------------------+
+==106987== 
+==106987== HEAP SUMMARY:
+==106987==     in use at exit: 0 bytes in 0 blocks
+==106987==   total heap usage: 27 allocs, 27 frees, 74,126 bytes allocated
+==106987== 
+==106987== All heap blocks were freed -- no leaks are possible
+==106987== 
+==106987== For lists of detected and suppressed errors, rerun with: -s
+==106987== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+Script done on Mon 15 Feb 2021 03:37:01 PM EST

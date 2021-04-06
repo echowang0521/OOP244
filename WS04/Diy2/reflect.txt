@@ -1,0 +1,19 @@
+lab part:
+From this workshop I further improved my knowledge about memory allocation
+and memory recycle, and also understand how to assign one object to another
+object. I also learnt how to write the method that required object as return type,
+and also hot set public or private methods in class template.
+
+DIY part:
+From this part, I learnt that if we use pointer as our collection, we need
+to allocate memory for it and recycle the memory in deconstructor, because
+the memory was allocated in heap, but if we do not use vector or string,
+we don't need to specify memory recycle in deconstructor, because those memory
+was allocated in stack.
+
+I didn’t meet critical difficulty for this workshop, I think the most difficult part for me is
+formating content output, I did spend lots of time on changing the space width among
+different words.
+
+Overrall, I think this workshop did help me improve my knowledge about OOP concepts
+including encapsulation, overloading, and so on.

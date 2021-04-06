@@ -1,0 +1,20 @@
+Lab:
+
+From this part, I learnt how to do the operator overloading, constructor overloading, and
+also how to define and create helper operator. I also learnt that if you want to create
+standalone helper operator, you have to define make those methods as friend, so these methods
+won't belong to any particular object.
+
+overloading is a way we can reuse the operator or constructor but can get different output
+if we can provide different parameters in it. It makes the code much cleaner and much easier
+to maintain in the future.
+
+When the overloaded function or operator was called, the compiler will determine the most appropriate
+definition to use, by comparing the argument types you provided or operator with parameter types specified
+in the definition, and this process is also called overload resolution.
+
+DIY:
+
+From this part, I further improved my knowledge about operator and constructor overloading,
+also understand under what situation we should implement our own helper operator, and it will
+make our code much shorter. 
